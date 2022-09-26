@@ -1,0 +1,5 @@
+tiles[0] = new Tile(tileImages[0], ["AAA", "AAA", "AAA", "AAA"], false);
+tiles[1] = new Tile(tileImages[1], ["ABA", "ABA", "AAA", "ABA"], false);
+tiles[2] = new Tile(tileImages[2], ["ABA", "ABA", "ABA", "AAA"], false);
+tiles[3] = new Tile(tileImages[3], ["AAA", "ABA", "ABA", "ABA"], false);
+tiles[4] = new Tile(tileImages[4], ["ABA", "AAA", "ABA", "ABA"], false);

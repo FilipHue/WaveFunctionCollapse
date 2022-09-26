@@ -1,0 +1,13 @@
+tiles[0] = new Tile(tileImages[0], ['AAA', 'AAA', 'AAA', 'AAA'], false);
+tiles[1] = new Tile(tileImages[1], ['BBB', 'BBB', 'BBB', 'BBB'], false);
+tiles[2] = new Tile(tileImages[2], ['BBB', 'BCB', 'BBB', 'BBB'], false);
+tiles[3] = new Tile(tileImages[3], ['BBB', 'BDB', 'BBB', 'BDB'], false);
+tiles[4] = new Tile(tileImages[4], ['ABB', 'BCB', 'BBA', 'AAA'], false);
+tiles[5] = new Tile(tileImages[5], ['ABB', 'BBB', 'BBB', 'BBA'], true);
+tiles[6] = new Tile(tileImages[6], ['BBB', 'BCB', 'BBB', 'BCB'], false);
+tiles[7] = new Tile(tileImages[7], ['BDB', 'BCB', 'BDB', 'BCB'], false);
+tiles[8] = new Tile(tileImages[8], ['BDB', 'BBB', 'BCB', 'BBB'], false);
+tiles[9] = new Tile(tileImages[9], ['BCB', 'BCB', 'BBB', 'BCB'], false);
+tiles[10] = new Tile(tileImages[10], ['BCB', 'BCB', 'BCB', 'BCB'], false);
+tiles[11] = new Tile(tileImages[11], ['BCB', 'BCB', 'BBB', 'BBB'], false);
+tiles[12] = new Tile(tileImages[12], ['BBB', 'BCB', 'BBB', 'BCB'], false);
